@@ -9,9 +9,9 @@ public class SoupServings {
         System.out.println(v);
     }
 
-    private int[][] array = {{100,0},{75,25},{50,50},{25,75}};
+    private final int[][] array = {{100,0},{75,25},{50,50},{25,75}};
 
-    private Double cache[][];
+    private Double[][] cache;
     public double soupServings(int n) {
         if(n > 5000) return 1;
         cache = new Double[n+1][n+1];
