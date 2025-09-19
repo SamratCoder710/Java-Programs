@@ -15,7 +15,7 @@ public class FoodRatings {
 
     }
 
-    class Food{
+    static class Food{
         String food;
         int rating;
         String cuisine;
