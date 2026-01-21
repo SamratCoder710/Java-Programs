@@ -18,7 +18,7 @@ public class PyramidTransitionMatrix {
         public boolean pyramidTransition(String bottom, List<String> allowed) {
             for (String s : allowed) {
                 String key = s.substring(0, 2);
-                map.computeIfAbsent(key, _ -> new ArrayList<>()).add(s.charAt(2));
+                map.computeIfAbsent(key, x -> new ArrayList<>()).add(s.charAt(2));
             }
             return canBuild(bottom);
         }

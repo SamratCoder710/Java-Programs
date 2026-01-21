@@ -17,7 +17,7 @@ public class PyramidTransition {
         Map<String, List<Character>> mp = new HashMap<>();
         for(String s : allowed){
             String pair = s.substring(0,2);
-            mp.computeIfAbsent(pair,_ -> new ArrayList<>()).add(s.charAt(2));
+            mp.computeIfAbsent(pair,x -> new ArrayList<>()).add(s.charAt(2));
         }
         return solve(bottom,0,mp,new StringBuilder());
 
