@@ -1,4 +1,7 @@
-﻿package com.coder.sanam.sorting.MergeSortImplementation;
+package com.coder.sanam.sorting;
+
+import com.coder.sanam.sorting.MergeSortAlgorithm;
+import com.coder.sanam.sorting.ParallelMergeSortAlgorithm;
 
 import java.util.Random;
 

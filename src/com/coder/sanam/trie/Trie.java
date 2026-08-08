@@ -1,4 +1,4 @@
-package com.coder.sanam.trie.Trie;
+package com.coder.sanam.trie;
 
 
 class Trie {
