@@ -1,4 +1,5 @@
-package com.coder.sanam.misc;
+﻿package com.coder.sanam.misc;
+import com.coder.sanam.linkedlist.ListNode;
 
 public class RemoveNthNodeFromEnd {
 	
