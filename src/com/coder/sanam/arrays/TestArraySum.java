@@ -1,7 +1,7 @@
-package com.coder.sanam.ArraySumImplementation;
+﻿package com.coder.sanam.ArraySumImplementation;
 
-import com.coder.sanam.MergeSortImplementation.MergeSortAlgorithm;
-import com.coder.sanam.MergeSortImplementation.ParallelMergeSortAlgorithm;
+import com.coder.sanam.sorting.MergeSortImplementation.MergeSortAlgorithm;
+import com.coder.sanam.sorting.MergeSortImplementation.ParallelMergeSortAlgorithm;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -42,3 +42,4 @@ public class TestArraySum {
         System.out.println(end-start);
     }
 }
+

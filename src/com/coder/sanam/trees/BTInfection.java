@@ -1,8 +1,8 @@
-package com.coder.sanam.trees;
+﻿package com.coder.sanam.trees;
 
 import java.util.*;
 
-import com.coder.sanam.SymmetricTreeNode.TreeNode;
+import com.coder.sanam.trees.SymmetricTreeNode.TreeNode;
 
 public class BTInfection {
 	
@@ -70,3 +70,4 @@ public class BTInfection {
 		System.out.println(amountOfTime);
 	}
 }
+

@@ -1,4 +1,4 @@
-package com.coder.sanam.trie;
+﻿package com.coder.sanam.trie.Trie;
 
 
 class Trie {
@@ -68,3 +68,4 @@ class Trie {
  * boolean param_2 = obj.search(word);
  * boolean param_3 = obj.startsWith(prefix);
  */
+

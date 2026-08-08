@@ -1,4 +1,4 @@
-package com.coder.sanam.misc;
+﻿package com.coder.sanam.misc;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import com.coder.sanam.InOrderTraversal.TreeNode;
+import com.coder.sanam.trees.InOrderTraversal.TreeNode;
 
 public class MaximumDifferenceBetweenNodeAndAncestor {
 	
@@ -69,3 +69,4 @@ public class MaximumDifferenceBetweenNodeAndAncestor {
 	}
 
 }
+

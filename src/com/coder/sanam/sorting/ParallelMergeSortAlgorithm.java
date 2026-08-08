@@ -1,4 +1,4 @@
-package com.coder.sanam.MergeSortImplementation;
+﻿package com.coder.sanam.sorting.MergeSortImplementation;
 
 public class ParallelMergeSortAlgorithm {
 
@@ -96,3 +96,4 @@ public class ParallelMergeSortAlgorithm {
 
     }
 }
+

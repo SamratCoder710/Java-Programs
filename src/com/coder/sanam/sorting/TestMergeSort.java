@@ -1,4 +1,4 @@
-package com.coder.sanam.MergeSortImplementation;
+﻿package com.coder.sanam.sorting.MergeSortImplementation;
 
 import java.util.Random;
 
@@ -40,3 +40,4 @@ public class TestMergeSort {
         System.out.println(end-start);
     }
 }
+

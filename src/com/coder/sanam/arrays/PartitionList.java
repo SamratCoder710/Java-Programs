@@ -1,4 +1,5 @@
 package com.coder.sanam.arrays;
+import com.coder.sanam.linkedlist.ListNode;
 
 public class PartitionList {
 

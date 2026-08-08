@@ -1,4 +1,4 @@
-package com.coder.sanam.MergeTwoSortedListNodes;
+﻿package com.coder.sanam.MergeTwoSortedListNodes.MergeTwoSortedListNodes;
 
 public class SinglyListNode {
     int val;
@@ -16,3 +16,4 @@ public class SinglyListNode {
         this.next = next;
     }
 }
+
