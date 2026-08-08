@@ -1,4 +1,4 @@
-package com.coder.sanam.sorting;
+package com.coder.sanam.arrays;
 
 public class FirstAndLastPositionInSortedArray {
 

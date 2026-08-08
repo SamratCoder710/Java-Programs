@@ -1,4 +1,4 @@
-package com.coder.sanam.bits;
+package com.coder.sanam.arrays;
 
 public class FindAllPossibleStableBinaryArraysI {
 
