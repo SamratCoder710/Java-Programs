@@ -1,4 +1,4 @@
-﻿package com.coder.sanam.sorting.MergeSortImplementation;
+package com.coder.sanam.sorting.MergeSortImplementation;
 
 public class MergeSortAlgorithm {
 

@@ -1,4 +1,4 @@
-package com.coder.sanam.java8.dateAndTime;
+package com.coder.sanam.date_and_time_api;
 
 import java.time.*;
 import java.time.temporal.TemporalAdjuster;

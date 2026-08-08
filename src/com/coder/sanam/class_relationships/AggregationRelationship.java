@@ -1,4 +1,4 @@
-package com.coder.sanam.ClassRelationships;
+package com.coder.sanam.class_relationships;
 
     //Aggregation
     //Aggregation is a special form of association. It is a relationship between two classes like association,

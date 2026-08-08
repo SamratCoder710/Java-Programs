@@ -1,4 +1,4 @@
-package com.coder.sanam.ClassRelationships;
+package com.coder.sanam.class_relationships;
 
 
 //Composition is a stronger form of aggregation where one class owns the other. If the owner class is destroyed, its components are also destroyed.

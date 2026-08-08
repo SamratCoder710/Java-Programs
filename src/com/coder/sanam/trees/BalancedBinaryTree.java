@@ -1,25 +1,9 @@
 package com.coder.sanam.bits;
+import com.coder.sanam.trees.TreeNode;
 
 public class BalancedBinaryTree {
 
-        static class TreeNode {
-            int val;
-            TreeNode left;
-            TreeNode right;
-
-            TreeNode() {
-            }
-
-            TreeNode(int val) {
-                this.val = val;
-            }
-
-            TreeNode(int val, TreeNode left, TreeNode right) {
-                this.val = val;
-                this.left = left;
-                this.right = right;
-            }
-        }
+        static 
 
 
 
@@ -62,3 +46,4 @@ public class BalancedBinaryTree {
     }
 
 }
+

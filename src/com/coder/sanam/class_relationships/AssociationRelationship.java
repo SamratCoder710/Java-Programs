@@ -1,4 +1,4 @@
-package com.coder.sanam.ClassRelationships;
+package com.coder.sanam.class_relationships;
 
 
 

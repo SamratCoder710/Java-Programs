@@ -1,9 +1,9 @@
-﻿package com.coder.sanam.trees;
+package com.coder.sanam.trees;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.coder.sanam.trees.InOrderTraversal.TreeNode;
+import com.coder.sanam.trees.TreeNode;
 
 public class LeafSimilarTree {
 	
@@ -24,4 +24,5 @@ public class LeafSimilarTree {
 		POT(root.right,list);
 	}
 }
+
 

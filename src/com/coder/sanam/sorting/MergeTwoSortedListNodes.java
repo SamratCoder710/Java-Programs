@@ -1,4 +1,4 @@
-﻿package com.coder.sanam.MergeTwoSortedListNodes.MergeTwoSortedListNodes;
+package com.coder.sanam.MergeTwoSortedListNodes.MergeTwoSortedListNodes;
 
 
 public class MergeTwoSortedListNodes {

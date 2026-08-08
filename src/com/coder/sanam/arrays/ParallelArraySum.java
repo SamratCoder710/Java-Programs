@@ -1,6 +1,4 @@
-package com.coder.sanam.ArraySumImplementation;
-
-import java.util.Arrays;
+package com.coder.sanam.parallel_sum;
 
 public class ParallelArraySum {
 

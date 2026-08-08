@@ -1,4 +1,5 @@
-package com.coder.sanam.bits;
+package com.coder.sanam.trees;
+import com.coder.sanam.trees.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -7,18 +8,6 @@ import java.util.Queue;
 
 public class BinaryTreeLevelOrderTraversal {
 	
-	 public class TreeNode {
-		      int val;
-		      TreeNode left;
-		      TreeNode right;
-		      TreeNode() {}
-		      TreeNode(int val) { this.val = val; }
-		      TreeNode(int val, TreeNode left, TreeNode right) {
-		          this.val = val;
-		          this.left = left;
-		          this.right = right;
-		      }
-	 }
 	
 	 public List<List<Integer>> levelOrder(TreeNode root) {
 	        List<List<Integer>> resultSet = new ArrayList<>();
@@ -52,3 +41,5 @@ public class BinaryTreeLevelOrderTraversal {
 	    }
 
 }
+
+
