@@ -1,5 +1,4 @@
-package com.coder.sanam.sorting;
-
+package com.coder.sanam.matrix;
 public class CountNegativeNumInSortedMatrix {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.coder.sanam.bits;
+package com.coder.sanam.trees;
 import com.coder.sanam.trees.TreeNode;
 
 public class BalancedBinaryTree {

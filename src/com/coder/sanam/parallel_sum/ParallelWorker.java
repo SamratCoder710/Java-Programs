@@ -1,4 +1,4 @@
-package com.coder.sanam.parallel_sum;
+package com.coder.sanam.arrays;
 
 import java.util.Arrays;
 

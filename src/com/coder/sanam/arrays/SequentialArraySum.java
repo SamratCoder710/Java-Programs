@@ -1,5 +1,4 @@
-package com.coder.sanam.parallel_sum;
-
+package com.coder.sanam.arrays;
 public class SequentialArraySum {
 
     private int[] nums;

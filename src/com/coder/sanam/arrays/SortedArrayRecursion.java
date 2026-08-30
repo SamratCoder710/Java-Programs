@@ -1,5 +1,4 @@
-package com.coder.sanam.sorting;
-
+package com.coder.sanam.arrays;
 public class SortedArrayRecursion {
 
 	public static void main(String[] args) {

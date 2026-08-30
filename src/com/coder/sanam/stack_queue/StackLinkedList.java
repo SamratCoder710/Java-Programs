@@ -1,5 +1,4 @@
-package com.coder.sanam.linkedlist;
-
+package com.coder.sanam.stack_queue;
 import java.util.LinkedList;
 
 public class StackLinkedList {

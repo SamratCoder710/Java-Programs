@@ -1,5 +1,4 @@
-package com.coder.sanam.bits;
-
+package com.coder.sanam.strings;
 public class MinFlipToMakeBinaryStringAlternating {
 
     public static void main(String[] args) {

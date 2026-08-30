@@ -1,5 +1,4 @@
-package com.coder.sanam.sorting;
-
+package com.coder.sanam.arrays;
 public class SearchInRotatedSortedArray {
 	public static int search(int[] nums, int target) {
         int left =0,right = nums.length -1;

@@ -1,5 +1,4 @@
-package com.coder.sanam.bits;
-
+package com.coder.sanam.arrays;
 import java.util.List;
 
 public class MinBitwiseArrayII {

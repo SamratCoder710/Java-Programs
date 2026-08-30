@@ -1,5 +1,4 @@
-package com.coder.sanam.sorting;
-
+package com.coder.sanam.arrays;
 public class MergeSortedArrays {
 	
 	public static void merge(int[] nums1, int m, int[] nums2, int n) {

@@ -1,5 +1,4 @@
-package com.coder.sanam.dp;
-
+package com.coder.sanam.strings;
 public class ValidPalindrome {
 	public static boolean isPalindrome(String s) {
         String replaceAll = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();

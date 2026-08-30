@@ -1,5 +1,4 @@
-package com.coder.sanam.bits;
-
+package com.coder.sanam.strings;
 import java.util.HashSet;
 import java.util.Set;
 

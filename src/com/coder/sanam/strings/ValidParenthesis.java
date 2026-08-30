@@ -1,5 +1,4 @@
-package com.coder.sanam.dp;
-
+package com.coder.sanam.strings;
 import java.util.Stack;
 
 public class ValidParenthesis {

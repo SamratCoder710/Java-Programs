@@ -1,5 +1,4 @@
-package com.coder.sanam.dp;
-
+package com.coder.sanam.strings;
 public class ValidParenthesisString {
 	
 	public static boolean checkValidString(String s) {

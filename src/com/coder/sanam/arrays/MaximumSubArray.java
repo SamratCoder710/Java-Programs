@@ -1,5 +1,4 @@
-package com.coder.sanam.dp;
-
+package com.coder.sanam.arrays;
 public class MaximumSubArray {
 	public static int maxSubArrayBruteForce(int[] nums) {
 		int max = nums[0];

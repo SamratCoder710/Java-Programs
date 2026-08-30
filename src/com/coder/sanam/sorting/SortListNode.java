@@ -1,4 +1,6 @@
-package com.coder.sanam.linkedlist;
+package com.coder.sanam.sorting;
+
+import com.coder.sanam.linkedlist.ListNode;
 
 public class SortListNode {
 	public ListNode sortList(ListNode head) {
